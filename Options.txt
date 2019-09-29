@@ -1,0 +1,82 @@
+Call and put options are derivative investments, meaning their price movements are based on the price movements of another financial product, which is often called the underlying. 
+
+A call option is bought if the trader expects the price of the underlying to rise within a certain time frame. 
+A put option is bought if the trader expects the price of the underlying to fall within a certain time frame. 
+
+Puts and calls can also be written/sold, which generates income but gives up certain rights to the buyer of the option.
+
+It is important to note that the option buyer pays the option premium at the time of purchasing the option. This is the maximum loss which he could suffer. In other words, he only stands to gain if the price of the underlying rises above the strike price and can suffer no more loss than the option premium paid. On the other hand, in future contracts, the buyer could suffer very large losses as his margin account is marked to market at the end of each trading session. 
+
+
+June 12th 2000 – Index futures were launched
+June 4th 2001 –Index options were launched
+July 2nd 2001 – Stock options were launched
+November 9th 2001 – Single stock futures were launched.
+
+CAll OPTION
+“The buyer of the call option has the right, but not the obligation to buy an agreed quantity of a particular commodity or financial instrument (the underlying) from the seller of the option at a certain time (the expiration date) for a certain price (the strike price). The seller (or “writer”) is obligated to sell the commodity or financial instrument should the buyer so decide. The buyer pays a fee (called a premium) for this right”.
+
+
+
+- Here are a few jargons that we will look into –
+- Strike Price
+- Underlying Price
+- Exercising of an option contract
+- Option Expiry
+- Option Premium
+	1. The concept of premium is pivotal to the Option Theory
+	2. Premium is never a fixed rate, it is a function of many (influencing) factors
+	3. In real markets premiums vary almost on a minute by minute basis
+
+
+- Option Settlement - Options are cash settled in India.
+Normally, this is how the cash flow should look like –
+	- On 26th Trader A exercises his right to buy 8000 shares from Trader B
+	- The price at which the transaction will take place is pre decided at Rs.25 (strike price)
+	- Trader A pays Rs.200,000/- (8000 * 25) to Trader B
+	- Against this payment Trader B releases 8000 shares at Rs.25 to Trader A
+	- Trader A almost immediately sells these shares in the open market at Rs.32 per share and receives Rs.256,000/-
+	- Trader A makes a profit of Rs.56,000/- (256000 – 200000) on this transaction
+
+Another way to look at it is that the option buyer is making a profit of Rs.7/- per shares (32-25) per share. Because the option is cash settled, instead of giving the option buyer 8000 shares, the option seller directly gives him the cash equivalent of the profit he would make. Which means Trader A would receive
+= 7*8000
+= Rs.56,000/- from Trader B.
+Of course, the option buyer had initially spent Rs.10,800/- towards purchasing this right, hence his real profits would be –
+= 56,000 – 10,800
+= Rs.45,200/-
+In fact if you look at in a percentage return terms, this turns out to be a whopping return of 419% (without annualizing).
+
+
+Generalizing the P&L for a call option buyer
+	Intrinsic Value (IV) = P&L = Max [0, (Spot Price – Strike Price)] – Premium Paid
+
+
+
+"COURSES"
+Strategy List - https://web.sensibull.com/optionsStrategiesList
+
+Varsity
+	Options Theory for Professional Trading - https://zerodha.com/varsity/module/option-theory/
+	Option Strategies - https://zerodha.com/varsity/module/option-strategies/
+
+
+Quantra - https://quantra.quantinsti.com
+
+Udacity
+	1. Machine Learning for Trading - https://www.udacity.com/course/machine-learning-for-trading--ud501
+	2. Artificial Intelligence for Trading - https://www.udacity.com/course/ai-for-trading--nd880
+
+DataCamp
+	Python For Finance: Algorithmic Trading - https://www.datacamp.com/community/tutorials/finance-python-trading
+
+Udemy
+	1. Options Trading Basics (3-Course Bundle) - https://www.udemy.com/course/learn-options-trading-courses/
+	2. Options Trading MasterClass: Options With Technical Analysis - https://www.udemy.com/course/option-trading-option-strategies-with-technical-analysis/
+	3. Options Trading 101: The Basics - https://www.udemy.com/course/options-trading-101-the-basics
+	4. Options Trading Essentials: The ULTIMATE Guides- https://www.udemy.com/course/options-trading-essentials/learn/lecture/6917246
+	5. Free Options 101 - Basic of Call and Put Options in 1 Hours - https://www.udemy.com/course/free-options-101-basic-of-call-and-put-options-in-1-hours/learn/lecture/5609700
+	6. Introduction to Options - Complete Course for Beginners - https://www.udemy.com/course/introduction-to-options-start-trading-now/learn/lecture/3249140
+	7. What is a Stock Option? - https://www.udemy.com/course/what-is-a-stock-option/
+
+Youtube
+	Options Basics - https://www.youtube.com/playlist?list=PL33AZa4cv-o58ldr-5zSn4ROx4SZG7Jyo

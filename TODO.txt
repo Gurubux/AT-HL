@@ -1,0 +1,36 @@
+TODO
+- Stradle
+- Strangle
+- In the money
+- Out of the money
+- Black-scholes
+
+Premium calculation
+
+
+Bullish Strategies
+	- Bull Call Spread
+	- Bull Put Spread
+	- Call Ratio Back Spread
+	- Bear Call Ladder
+	- Call Butterfly
+	- Synthetic Call
+	- Straps
+
+Bearish-strategies Bearish Spreads
+	- Bear Call Spread
+	- Bear Put Spread
+	- Bull Put Ladder
+	- Put Ratio Back spread
+	- Strip
+	- Synthetic Put
+
+Neutral Strategies 
+	- Long & Short Straddles
+	- Long & Short Strangles
+	- Long & Short Iron Condor
+	- Long & Short Butterfly
+	- Box
+
+
+
