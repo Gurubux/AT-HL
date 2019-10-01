@@ -13,12 +13,12 @@ Key Decisions for Backtesting Trading Strategy
 	- Platform to code and backtest trading strategy
 	- Evaluate the system on benchmark parameters
 
-Typical Backtesting Parameters to Evaluate a Trading System
-	- Total P/L
-	- Average P/L
-	- Success Ratio
-	- Maximum Drawdown
-	- Sharpe Ratio
+Typical Backtesting Parameters to Evaluate a Trading System 
+- Total P/L 
+- Average P/L 
+- Success Ratio 
+- Maximum Drawdown 
+- Sharpe Ratio
 
 Platforms Used for Backtesting
 	- AmiBroker, 
